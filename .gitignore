@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.environment/
+*.env
+
+# Build / debug artifacts
+*.dSYM/
+*.out
+*.log
+
+# VS Code settings
+.vscode/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# Data files (if you don’t want to push large datasets)
+*.csv
+*.json
+*.parquet
+*.xlsx
