@@ -23,6 +23,10 @@ This project predicts short-term stock price changes using intraday data and an 
 
 ---
 ## Sample Output
+
+<img width="1110" height="282" alt="Screenshot 2025-09-06 at 14 53 40" src="https://github.com/user-attachments/assets/ebf1ad18-ae4c-487f-958d-9dde2f16fd8e" />
+
+
 <img width="643" height="70" alt="Screenshot 2025-08-28 at 18 16 00" src="https://github.com/user-attachments/assets/6441f92c-44ae-4584-8a55-5d8374c4f3a8" />
 
 ---
@@ -33,5 +37,6 @@ This project predicts short-term stock price changes using intraday data and an 
 ├── model_operations.py # Helper functions (feature mutations & evaluation)
 
 └── README.md # Project documentation
+
 
 
