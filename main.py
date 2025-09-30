@@ -8,7 +8,8 @@ from sklearn import linear_model
 
 iterations = 5
 
-url = "https://api.polygon.io/v2/aggs/ticker/GOOGL/range/1/minute/2024-01-02/2024-04-01?apiKey=[INSETR OWN KEY]&limit=50000"
+#MUST INSERT OWN API KEY HERE
+url = "https://api.polygon.io/v2/aggs/ticker/GOOGL/range/1/minute/2024-01-02/2024-04-01?apiKey=[INSERT OWN KEY]&limit=50000"
 
 response = requests.get(url)
 
